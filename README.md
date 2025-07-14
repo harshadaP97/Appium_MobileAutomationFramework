@@ -55,7 +55,7 @@ A hybrid automation framework built using **Java**, **TestNG**, and **Appium** f
 ```bash
 mvn clean test
 
-📸 Sample Output
+📸 Sample Reports
 TestNG Console Logs
 Extent HTML Report with test steps
 Captured Screenshots for failed scenarios
