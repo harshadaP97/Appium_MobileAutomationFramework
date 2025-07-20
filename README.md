@@ -61,3 +61,13 @@ Extent HTML Report with test steps
 Captured Screenshots for failed scenarios
 
 This framework is built to simulate real-world QA automation project structures and workflows.
+
+👩‍💻 About  
+Harshada Patil — QA Engineer | MSc in Applied Computer Science & AI  
+
+🚀 Build robust, maintainable automation frameworks and delight your team with professional reports and logs!
+
+### ⚠️ Disclaimer  
+This project is part of my personal QA portfolio, created to demonstrate my skills and experience.  
+Please do not reuse or distribute without permission.  
+**Authored by Harshada Patil**
