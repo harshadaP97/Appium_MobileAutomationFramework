@@ -62,8 +62,8 @@ Captured Screenshots for failed scenarios
 
 This framework is built to simulate real-world QA automation project structures and workflows.
 
-👩‍💻 About  
-Harshada Patil — QA Engineer | MSc in Applied Computer Science & AI  
+👩‍💻 About
+Harshada Patil — QA Engineer | MSc in Applied Computer Science & AI
 
 🚀 Build robust, maintainable automation frameworks and delight your team with professional reports and logs!
 ---
