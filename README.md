@@ -53,7 +53,8 @@ A hybrid automation framework built using **Java**, **TestNG**, and **Appium** f
 3. Run tests via your IDE or:
 
 ```bash
-mvn clean test ```
+mvn clean test
+```
 
 📸 Sample Reports
 TestNG Console Logs
